@@ -1,0 +1,25 @@
+{
+    "name": "mrlinnth/mm-regions-cities",
+    "description": "Myanmar regions and cities data",
+    "keywords": ["cities", "regions", "laravel", "myanmar"],
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": "^7.0.0",
+        "illuminate/database": "^6.0.0",
+        "illuminate/support": "^6.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mrlinnth\\Mmrc\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mrlinnth\\Mmrc\\MmrcServiceProvider"
+            ]
+        }
+    }
+}
