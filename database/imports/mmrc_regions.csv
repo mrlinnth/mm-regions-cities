@@ -1,0 +1,16 @@
+id,name,name_mm,capital_id,iso,type
+1,Ayeyarwady,ဧရာဝတီ,185,MM-07,Region
+2,Bago,ပဲခူး,4,MM-02,Region
+3,Chin,ချင်း,26,MM-14,State
+4,Kachin,ကချင်,153,MM-11,State
+5,Kayah,ကယား,98,MM-12,State
+6,Kayin,ကရင်,36,MM-13,State
+7,Magway,မကွေး,104,MM-03,Region
+8,Mandalay,မန္တလေး,107,MM-04,Region
+9,Mon,မွန်,113,MM-15,State
+10,Rakhine,ရခိုင်,220,MM-16,State
+11,Shan,ရှမ်း,233,MM-17,State
+12,Sagaing,စစ်ကိုင်း,207,MM-01,Region
+13,Tanintharyi,တနင်္သာရီ,17,MM-05,Region
+14,Yangon,ရန်ကုန်,263,MM-06,Region
+15,Naypyidaw Union Territory,နေပြည်တော်,163,MM-18,Union Territory

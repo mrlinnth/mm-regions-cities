@@ -14,6 +14,11 @@ return [
 
     'use_json' => true,
 
+    'json_paths' => [
+        'regions' => 'vendor/mmrc/mmrc_regions.json',
+        'cities' => 'vendor/mmrc/mmrc_cities.json',
+    ],
+
     /*
     |--------------------------------------------------------------------------
     | Number of items to show

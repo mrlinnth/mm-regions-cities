@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Ayeyarwady",
+            "name_mm": "ဧရာဝတီ",
+            "capital_id": "185",
+            "iso": "MM-07",
+            "type": "Region"
+        },
+        {
+            "id": "2",
+            "name": "Bago",
+            "name_mm": "ပဲခူး",
+            "capital_id": "4",
+            "iso": "MM-02",
+            "type": "Region"
+        },
+        {
+            "id": "3",
+            "name": "Chin",
+            "name_mm": "ချင်း",
+            "capital_id": "26",
+            "iso": "MM-14",
+            "type": "State"
+        },
+        {
+            "id": "4",
+            "name": "Kachin",
+            "name_mm": "ကချင်",
+            "capital_id": "153",
+            "iso": "MM-11",
+            "type": "State"
+        },
+        {
+            "id": "5",
+            "name": "Kayah",
+            "name_mm": "ကယား",
+            "capital_id": "98",
+            "iso": "MM-12",
+            "type": "State"
+        },
+        {
+            "id": "6",
+            "name": "Kayin",
+            "name_mm": "ကရင်",
+            "capital_id": "36",
+            "iso": "MM-13",
+            "type": "State"
+        },
+        {
+            "id": "7",
+            "name": "Magway",
+            "name_mm": "မကွေး",
+            "capital_id": "104",
+            "iso": "MM-03",
+            "type": "Region"
+        },
+        {
+            "id": "8",
+            "name": "Mandalay",
+            "name_mm": "မန္တလေး",
+            "capital_id": "107",
+            "iso": "MM-04",
+            "type": "Region"
+        },
+        {
+            "id": "9",
+            "name": "Mon",
+            "name_mm": "မွန်",
+            "capital_id": "113",
+            "iso": "MM-15",
+            "type": "State"
+        },
+        {
+            "id": "10",
+            "name": "Rakhine",
+            "name_mm": "ရခိုင်",
+            "capital_id": "220",
+            "iso": "MM-16",
+            "type": "State"
+        },
+        {
+            "id": "11",
+            "name": "Shan",
+            "name_mm": "ရှမ်း",
+            "capital_id": "233",
+            "iso": "MM-17",
+            "type": "State"
+        },
+        {
+            "id": "12",
+            "name": "Sagaing",
+            "name_mm": "စစ်ကိုင်း",
+            "capital_id": "207",
+            "iso": "MM-01",
+            "type": "Region"
+        },
+        {
+            "id": "13",
+            "name": "Tanintharyi",
+            "name_mm": "တနင်္သာရီ",
+            "capital_id": "17",
+            "iso": "MM-05",
+            "type": "Region"
+        },
+        {
+            "id": "14",
+            "name": "Yangon",
+            "name_mm": "ရန်ကုန်",
+            "capital_id": "263",
+            "iso": "MM-06",
+            "type": "Region"
+        },
+        {
+            "id": "15",
+            "name": "Naypyidaw Union Territory",
+            "name_mm": "နေပြည်တော်",
+            "capital_id": "163",
+            "iso": "MM-18",
+            "type": "Union Territory"
+        }
+    ]
+}
