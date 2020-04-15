@@ -40,12 +40,19 @@ After installation you can retrieve the data by REST APIs. By default, the data 
 
 5. Access `{APP_URL}/api/mmrc/cities/{city_id}` to get specific city data
 
+![](https://i.imgur.com/TgLEHsF.png)
+
+![](https://i.imgur.com/zV2E6i1.png)
+
+![](https://i.imgur.com/WYZhMVC.png)
+
 ---
 
 ### To Do
 
-[] vuejs dropdown component
-[] CRUD for city
+-[ ] vuejs dropdown component
+
+-[ ] CRUD for city
 
 ### Do not want a Laravel package
 
