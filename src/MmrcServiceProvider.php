@@ -31,6 +31,10 @@ class MmrcServiceProvider extends ServiceProvider
                 $publishablePath . '/storage' => storage_path('app/vendor/mmrc'),
             ], 'mmrc');
 
+            $this->publishes([
+                $publishablePath . '/imports' => storage_path('app/vendor/mmrc'),
+            ], 'mmrc');
+
         }
     }
 
