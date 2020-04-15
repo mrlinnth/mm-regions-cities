@@ -3,16 +3,16 @@
 namespace Mrlinnth\Mmrc\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use Mrlinnth\Mmrc\Models\Region;
 
 class MmrcController extends Controller
 {
     /**
-     * For test purpose
+     * @return json
      */
     public function test()
     {
-        $region = Region::findOrFail(5);
-        dd($region->capital_city);
+        dd(config('mmrc.use_json'));
+
+        return response()->json(['data' => $regions]);
     }
 }

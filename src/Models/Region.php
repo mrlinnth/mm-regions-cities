@@ -21,7 +21,7 @@ class Region extends Model
     protected $fillable = [
         'name',
         'name_mm',
-        'capital',
+        'capital_id',
         'iso',
         'type',
     ];
@@ -48,8 +48,8 @@ class Region extends Model
      *
      * @return \Illuminate\Database\Eloquent\Relations\HasMany
      */
-    public function capital_city()
+    public function capital()
     {
-        return $this->belongsTo('Mrlinnth\Mmrc\Models\City', 'capital');
+        return $this->belongsTo('Mrlinnth\Mmrc\Models\City', 'capital_id');
     }
 }
